@@ -26,7 +26,7 @@ module.exports = {
                     title: '人工智能',
                     collapsable: true,
                     children: [
-                        '/guide/notes/two',
+                        '/guide/notes/ai',
                     ]
                 }
             ]
