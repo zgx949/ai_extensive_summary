@@ -2,6 +2,7 @@ module.exports = {
     title: 'AI知识库',
     description: '小景哥哥带你上王者',
     dest: './dist',
+    base: "./",
     port: '80',
     head: [
         ['link', { rel: 'icon', href: '/logo.jpg' }]
